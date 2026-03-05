@@ -104,7 +104,7 @@ npm install
 ## 2️⃣ Start the development server
 
 ```
-npx expo start --clear
+npx expo start
 ```
 
 Run on:
